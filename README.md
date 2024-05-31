@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anuj Panchal</h1>
-<h3 align="center">A passionate MERN stack Developer and CP enthusiast.</h3>
+<h3 align="center">A passionate Software Engineer and CP enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj-panchal&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-panchal" /> </p>
 
-- 🔭 I’m currently working on **Advanced DSA**
-
-- 🌱 I’m currently learning **MongoDB**
-
-- 👯 I’m looking to collaborate on **React app for CP**
+- 🔭 I’m currently working in **Moglix** as Software Engineer with specialisation in Backend Development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anuj-Panchal](https://github.com/Anuj-Panchal)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Nodejs, Java**
+- 💬 Ask me about **Java, Spring, AWS, NLP**
 
 - 📫 How to reach me **anujpanchal2001@gmail.com**
 
